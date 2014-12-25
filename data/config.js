@@ -1,16 +1,16 @@
-exports.from = 'qiaoliang<qiaolianggame@163.com>';
+exports.from = '';
 exports.config = {
-    user: 'qiaolianggame',
-    password: 'heroes2009',
-    host: 'smtp.163.com',
+    user: '',
+    password: '',
+    host: '',
     ssl: true
 };
 
 exports.config1 = {
-    host: 'smtp.163.com',
+    host: '',
     auth: {
-        user: 'qiaolianggame',
-        pass: 'heroes2009'
+        user: '',
+        pass: ''
     },
     secure:'ssl'
 };
